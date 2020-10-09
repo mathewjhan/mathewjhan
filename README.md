@@ -1,4 +1,8 @@
-### Hi there 👋
+success is your own proficiency
+
+failure is simply misfortune
+
+keep trying! :^)
 
 <!--
 **mathewjhan/mathewjhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
