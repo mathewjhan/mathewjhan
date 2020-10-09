@@ -1,8 +1,8 @@
-success is your own proficiency
+*Failure* is simply an unlucky step toward *success*.
 
-failure is simply misfortune
+That's why *you* should keep trying!
 
-keep trying! :^)
+:^)
 
 <!--
 **mathewjhan/mathewjhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
