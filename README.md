@@ -1,6 +1,6 @@
-*Failure* is simply an unlucky step toward *success*.
+Failure is simply an unlucky step toward success, but a step nonetheless.
 
-That's why *you* should keep trying!
+That's why you should keep trying!
 
 :^)
 
