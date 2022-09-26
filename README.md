@@ -1,4 +1,4 @@
-need a good online nonconvex optimization model for my success landscape
+looking for a good online nonconvex optimization model for my success landscape
 
 <!--
 **mathewjhan/mathewjhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
